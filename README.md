@@ -8,7 +8,7 @@
   Azure Service Bus, Azure Key Vault, SEQ, Azure Devops.
 ###
   Used frameworks: EF Core, MassTransit, Mediator, Language-ext, Mongo DB Driver
-  AutoMapper, FluentValidator and developed custom framework for dev team needs.
+  AutoMapper, FluentValidator, HangFire and developed custom framework for dev team needs.
 ###
   Working with optimising flow, integrating payment systems, working with
   finance realtime charts and finance algorithms. Developed high-perfomance data-consolidation
